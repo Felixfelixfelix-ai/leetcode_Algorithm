@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../kaggle/script"
+		},
+		{
+			"name": "vscode_leetcode",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
